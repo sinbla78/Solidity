@@ -1,4 +1,4 @@
-# study
+# Solidity
 
 ## 목차
 <details>
